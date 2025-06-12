@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 allData = {'AK': {'Aleutians East': {'pop': 3141, 'tracts': 1},
         'Aleutians West': {'pop': 5561, 'tracts': 2},
         'Anchorage': {'pop': 291826, 'tracts': 55},

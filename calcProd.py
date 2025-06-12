@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import time
 startTime = time.time()
 # Calculate the product of the first 100,000 numbers.
