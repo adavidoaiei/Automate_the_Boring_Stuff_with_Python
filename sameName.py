@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def spam():
     eggs = 'spam local'
     print(eggs) # prints 'spam local'
